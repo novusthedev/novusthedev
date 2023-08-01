@@ -9,8 +9,12 @@
 <p>&nbsp;</p>
 
 <h3>My GitHub stats!</h3>
-
-![My Stats!](https://github-readme-stats.vercel.app/api?username=novusthedev&show_icons=true&theme=transparent)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=novusthedev&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novusthedev&show_icons=true&theme=transparent&layout=donut" />
+</a>
 
 <h3>My projects:</h3>
 <p><a href="https://github.com/blizOS">blizOS Linux</a> - Arch based distro made for beginners</p>
