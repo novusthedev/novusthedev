@@ -17,7 +17,7 @@
 </a>
 
 <h3>My projects:</h3>
-<p><a href="https://github.com/novusthedev/chrooted">Chrooted</a> - Make distro instances &amp; chroot into them</p>
+<p><a href="https://github.com/DropletVideo/droplet">Droplet</a> - A free and open source &amp; media sharing platform</p>
 <p><a href="https://github.com/novusthedev/debian-vnc-installer">Debian VNC Server Script</a> - Installs MATE &amp; VNC on Debian</p>
 <p><a href="https://github.com/novusthedev/rich-presence">Rich Presence UWP</a> - Have a Discord rich presence with a Windows 11 UI Style</p>
 <p><a href="https://github.com/novusthedev/novus-bot">Novus Bot</a> - Discord bot with fun commands</p>
